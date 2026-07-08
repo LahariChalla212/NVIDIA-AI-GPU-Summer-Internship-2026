@@ -1,0 +1,7 @@
+Metric,Value
+Training Accuracy,0.9125624895095825
+Validation Accuracy,0.8824166655540466
+Training Loss,0.2296701818704605
+Validation Loss,0.34659022092819214
+Test Accuracy,0.8799999952316284
+Test Loss,0.3639286756515503
